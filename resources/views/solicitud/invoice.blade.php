@@ -63,5 +63,25 @@
 					</tr>
 					@endforeach
 				</table>
-			</body>
-			</html>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+
+				<table width="center">
+
+					<tr width="100%" style="text-align: center;">
+						<th height="10 px" width="35%" style="border:1px solid #000; border-bottom: none; border-right: none; border-left: none border; ">María Fernanda Torres Guzmán</th>
+						<th height="10 px" width="30%"></th>
+						<th height="10 px" width="35%" style="border:1px solid #000; border-bottom: none; border-right: none; border-left: none border; ">jesus alejandro torre <br>Recibe</th>
+
+					</table>
+
+
+				</body>
+				</html>
